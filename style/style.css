@@ -1,20 +1,12 @@
 body{
   margin-left: 400px;
   background: #c8cbd1;
+  font-family: sans-serif;
+  width : 700px;
 }
 
-#quote_a{
-  border: 2px solid white;
-  padding-top : 15px;
-  padding-bottom : 15px;
-  padding-left: 170px;
-  padding-right: 170px;
-}
-
-#quote_b{
-  border: 2px solid white;
-  padding-top : 15px;
-  padding-bottom : 15px;
-  padding-left: 239px;
-  padding-right: 239px;
+blockquote{
+  text-align: center;
+  border : 2px solid white;
+  margin-left: 0;
 }
