@@ -5,29 +5,29 @@
 	background-color: #333333;
 }
 
-#my-info{
+#header-left{
 	float: left;
 	text-align: center;
 	width: 25%;
 }
 
-#name{
+#header-left-1{
 	font-size: 200%;
 	font-family: 'ABeeZee', sans-serif;
 	color : white;
 	text-decoration: none;
 }
 
-#name:hover{
+#header-left-1:hover{
 	color : #8c8c8c;
 }
 
-#email{
+#header-left-2{
 	font-family: 'Pontano Sans', sans-serif;
 	color : white;
 }
 
-#phone{
+#header-left-3{
 	font-family: 'Pontano Sans', sans-serif;
 	color : white;
 }
